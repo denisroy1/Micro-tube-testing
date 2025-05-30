@@ -15,7 +15,7 @@ Paper using the raw data (available on the McGill dataverse at https://borealisd
 
 Listed scripts are used to process and visualise experimental data testing the reusability of micro-tubes for HTS library preps.
 
-* **MicroTube.R -** Script that reads in the fluorescense data (covdathighses.csv) from the pico quant iT test and converts it to DNA concentrations using the information outlined in the manufacturer's protocols. The script converts data, visualises central tendencies and performes statistical analyses as outlined in the paper.
+* **MicroTube.R -** Script that reads in the fluorescense data (covdathighsens.csv) from the pico quant iT test and converts it to DNA concentrations using the information outlined in the manufacturer's protocols. The script converts data, visualises central tendencies and performes statistical analyses as outlined in the paper.
   
 * **Shearingrep.R -** Script that uses the shearingrep.csv file to visualise the repeatability of the shearing process on the same individual processed five times in the same micro-tube. The script also performs the repeatability analyses as reported in the paper.
 

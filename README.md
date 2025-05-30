@@ -19,6 +19,6 @@ Listed scripts are used to process and visualise experimental data testing the r
   
 * **Shearingrep.R -** Script that uses the shearingrep.csv file to visualise the repeatability of the shearing process on the same individual processed five times in the same micro-tube. The script also performs the repeatability analyses as reported in the paper.
 
-To view scripts for this work, go to 'scripts' folder.
+To view scripts for this work, go to 'Scripts' folder.
 
 
